@@ -34,9 +34,7 @@ Here are some of the programming languages I know and have experience with:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![VB](https://img.shields.io/badge/-VB-00599C?style=flat&logo=visualstudio&logoColor=white)
 
-
 ## Contact Me
 Wanna rage? Let's Rage... Want to collaborate? Or maybe you just want to vent and hate on those Go lang gophers? Reach out to me on Discord:
 
-- Discord: [SourMilk](https://discordapp.com/users/lokela#7950)
-
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/lokela#7950)
