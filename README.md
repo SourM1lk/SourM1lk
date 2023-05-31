@@ -1,5 +1,3 @@
-# The Chaotic Chronicles of SourM1lk: Embracing the Madness
-
 **Opening Scene**: A cluttered room, with stacks of pizza boxes and energy drink cans scattered around. The camera pans to SourM1lk, sitting hunched over a computer, surrounded by a chaos of code snippets, a prominently displayed Rust crab mascot named Ferris, and a Golang gopher effigy with a big red cross over it.
 
 **Narrator (energetic tone)**: In a world where chaos reigns supreme and sanity takes a backseat, we introduce you to an extraordinary ordinary guy. Meet SourM1lk, a self-proclaimed connoisseur of chaos and a master of mayhem, armed with nothing but a keyboard, a mischievous grin, and an unwavering love for Ferris the crab, the iconic Rust mascot.
@@ -27,3 +25,18 @@
 *Closes with SourM1lk surrounded by a whirlwind of code snippets, Ferris the crab mascot proudly displayed, and the remnants of the Golang gopher effigy.*
 
 **Narrator (cheerful)**: Welcome to the delightful world of SourM1lk, where chaos is the name of the game, Ferris the crab reigns supreme, and the Golang gophers face the occasional jest. Let the adventure begin!
+
+## Programming Languages
+Here are some of the programming languages I know and have experience with:
+
+- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![VB](https://img.shields.io/badge/-VB-00599C?style=flat&logo=visualstudio&logoColor=white)
+
+
+## Contact Me
+Wanna rage? Let's Rage... Want to collaborate? Or maybe you just want to vent and hate on those Go lang gophers? Reach out to me on Discord:
+
+- Discord: [SourMilk](https://discordapp.com/users/lokela#7950)
+
