@@ -25,13 +25,10 @@
 *Closes with SourM1lk surrounded by a whirlwind of code snippets, Ferris the crab mascot proudly displayed, and the remnants of the Golang gopher effigy.*
 
 **Narrator (cheerful)**: Welcome to the delightful world of SourM1lk, where chaos is the name of the game, Ferris the crab reigns supreme, and the Golang gophers face the occasional jest. Let the adventure begin!
-https://github-readme-stats-sand-tau-88.vercel.app/
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-tau-88.vercel.app/api?username=SourM1lk&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourM1lk&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SourM1lk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sand-tau-88.vercel.app/api/top-langs/?username=SourM1lk&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Programming Languages
