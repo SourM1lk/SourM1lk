@@ -28,11 +28,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-tau-88.vercel.app/api?username=SourM1lk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&card_width=1000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourM1lk&layout=compact&theme=dark&card_width=1000&hide_border=true&langs_count=10)
 
 
 [![Top Langs](https://github-readme-stats-sand-tau-88.vercel.app/api/top-langs/?username=SourM1lk&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.sand-tau-88.vercel.app/api/top-langs/?username=SourM1lk&layout=compact&theme=dark&card_width=1000&hide_border=true&langs_count=10)
 
 ## Programming Languages
 Here are some of the programming languages I know and have experience with:
