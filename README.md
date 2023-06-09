@@ -26,6 +26,8 @@
 
 **Narrator (cheerful)**: Welcome to the delightful world of SourM1lk, where chaos is the name of the game, Ferris the crab reigns supreme, and the Golang gophers face the occasional jest. Let the adventure begin!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SourM1lk)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Programming Languages
 Here are some of the programming languages I know and have experience with:
 
