@@ -28,6 +28,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SourM1lk&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Programming Languages
 Here are some of the programming languages I know and have experience with:
 
